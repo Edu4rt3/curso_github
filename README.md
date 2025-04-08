@@ -1,6 +1,4 @@
 ![alt](hulk.avif)
 # Eduardo
-**Eduardo** _Azevedo_ **_Bretas_** Duarte
-## AAAAAAAA
-### jbsdjbds
-#### aaaaaaa
+## Redes sociais
+[LinkedIn](https://www.linkedin.com/in/eduardoduarte-dev/)
